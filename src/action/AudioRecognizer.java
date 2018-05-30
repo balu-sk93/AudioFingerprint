@@ -26,8 +26,8 @@ public class AudioRecognizer {
         Map<String, Object> config = new HashMap<String, Object>();
         // Replace "xxxxxxxx" below with your project's access_key and access_secret.
         config.put("host", "ap-southeast-1.api.acrcloud.com");
-        config.put("access_key", "5e739f26bfe91ae1095f258eac592c4e");
-        config.put("access_secret", "9unAFupjZu3i68VqxrlDXF4ITotV0dHp2oGPzZ3t");
+        config.put("access_key", "xxxxxxxx");
+        config.put("access_secret", "xxxxxxxx");
         config.put("debug", false);
         config.put("timeout", 10); // seconds
 
